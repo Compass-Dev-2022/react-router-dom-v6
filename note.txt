@@ -1,0 +1,17 @@
+1.React Router Dom v6
+2.Basic
+3.NavLink(end),Link
+4.Nested Route,Outlet
+5.useNavigate
+6.useLocation
+7.refactoring
+8.json-server
+
+
+miniproject
+
+-import css
+-react hook (lifeCycle)
+-react-router-Dom
+-json-server
+-react-icons

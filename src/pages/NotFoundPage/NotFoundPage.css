@@ -1,0 +1,28 @@
+.not-found-wrapper {
+  width: 100%;
+  height: 100vh;
+  background: #4e6e81;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px 0px;
+}
+
+.count {
+  width: 50px;
+  height: 50px;
+  display: grid;
+  place-items: center;
+  color: rgba(0, 0, 0);
+  border-radius: 50%;
+  background: #fed187;
+}
+
+.no-found-text-wrap {
+  color: #fff;
+}
+
+.no-found-text-wrap .text-link {
+  margin-top: 20px;
+}
